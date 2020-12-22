@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+Normal Text
 
-You can use the [editor on GitHub](https://github.com/shivesh01/Website_Pages/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# Heading 1
+## Heading 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Italics_
 
-### Markdown
+**strong**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+~~10000~~ **999**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[Twitter](https://twitter.com/Shivesh_1 "Twitter_profile")
 
-- Bulleted
-- List
+Images
+![Welcome]()
 
-1. Numbered
-2. List
+use `for` loop
 
-**Bold** and _Italic_ and `Code` text
+```Python
 
-[Link](url) and ![Image](src)
+Name = "shivesh";
+
+for name in Name;
+    print(name)
+    
+
 ```
+Tables
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+|Table|Goes|Here|
+|---|----|---|
+|one|Two|Three|
 
-### Jekyll Themes
+---
+>Keep moving ahead
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivesh01/Website_Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. List one
+2. List Two
+3. List Three
+    1. List four
+- List four
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
