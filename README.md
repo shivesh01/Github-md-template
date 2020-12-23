@@ -15,14 +15,15 @@ _Italics_
 Images
 ![Welcome]()
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://cloud-5pg8raikb.vercel.app/0screenshot_2020-12-23_at_10.38.39.png) |  ![](https://cloud-5pg8raikb.vercel.app/1screenshot_2020-12-23_at_11.13.43.png)
+
 use `for` loop
 
 ```Python
 
-Name = "shivesh";
-
-for name in Name;
-    print(name)
+    print(")
     
 
 ```
