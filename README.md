@@ -1,4 +1,4 @@
-Normal Text
+Random Text
 
 # Heading 1
 ## Heading 2
@@ -13,7 +13,6 @@ _Italics_
 [Twitter](https://twitter.com/Shivesh_1 "Twitter_profile")
 
 Images
-![Welcome]()
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
